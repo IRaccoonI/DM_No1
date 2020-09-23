@@ -271,7 +271,7 @@ class MainApp(App):
         set_layout.add_widget(distribution_box)
         set_layout.add_widget(btn_to_report_layout)
 
-        info_layout.add_widget(Label(text='Gamirkin Ilya\n2282'))
+        info_layout.add_widget(Label(text='Gamirkin Ilya\n2282\nGit: https://github.com/IRaccoonI/DM_No1'))
         info_layout.add_widget(btn2_to_report_layout)
 
         root.add_widget(report_layout)
